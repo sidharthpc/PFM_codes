@@ -17,7 +17,7 @@ Supervision:
     Prof. Dr.-Ing. Fadi Aldakheel
 
 Affiliation:
-    Institute of Continuum Mechanics (IBNM)
+    Institute of Mechanics and Computational Mechanics (IBNM)
     Gottfried Wilhelm Leibniz Universität Hannover (LUH)
     Appelstraße 11, 30167 Hannover, Germany
 
